@@ -1,0 +1,24 @@
+{
+  "name": "sit725-parc3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma2808203259/sit725-parc3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma2808203259/sit725-parc3/issues"
+  },
+  "homepage": "https://github.com/ma2808203259/sit725-parc3#readme"
+}
